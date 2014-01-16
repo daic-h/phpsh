@@ -10,7 +10,6 @@ __Modules:__
 
  * [pcntl](http://php.net/manual/en/book.pcntl.php) *recommended but not required.*
  * [pcre](http://php.net/manual/en/book.pcre.php)
- * [posix](http://php.net/manual/en/book.posix.php)
  * [tokenizer](http://php.net/manual/en/book.tokenizer.php)
 
 Python Dependencies
